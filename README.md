@@ -1,5 +1,5 @@
 ### 安装
-在线安装地址：https://dibailang.github.io/shadowrocket/index.html
+在线安装地址：https://AU555Lb.github.io/shadowrocket/index.html
 ### 最新版本
 ### 使用说明
 1. Shadowrocket v2.1.75 ，安装即可使用
